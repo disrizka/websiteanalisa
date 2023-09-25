@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artikel Fetail</title>
+    <link rel="shortcut icon" href="./200x200bb.jpg" type="image/x-icon">
+</head>
+<body>
+    <div class="offcanvas-header d-lg-none d-xl-none">
+        <a href="start.html"><img src="https://telemed.ihc.id/assets/web/img/logo-ihctelemed.png"></a>
+        <button type="button" class="btn-close btn-close-white offcanvas-close offcanvas-nav-close" aria-label="Close"></button>
+      </div>
+    <div class="content-wrapper">
+        <ul class="navbar classic transparent navbar-expand-lg navbar-light">
+        <li class="nav-item"><a class="nav-link" href="https://telemed.ihc.id/home.html"><span class="font-size-13">Home</span></a></li>
+        <li class="nav-item"><a class="nav-link" href="https://telemed.ihc.id/tentang-kami.html"><span class="font-size-13">Tentang Kami</span></a></li>
+        <li class="nav-item"><a class="nav-link" href="https://telemed.ihc.id/artikel.html" ><span class="font-size-13">Artikel Kesehatan</span></a></li>
+        <li class="nav-item"><a class="nav-link" href="https://telemed.ihc.id/faq.html" ><span class="font-size-13">FAQ</span></a></li>
+        <li class="nav-item"><a class="nav-link" href="https://telemed.ihc.id/events.html"><span class="font-size-13">Events</span></a></li>
+    </ul>
+    </div>
+
+
+    <section  class="wrapper bg-soft-primary">
+        <div class="col-md-12 mx-auto">
+            <p> Artikel Detail</p>
+            <h2> Mudik di masa Pandemi lebih aman menggunakan kendaraan pribadi,Benarkah</h2>
+        </div>
+    </section>
+
+    <section>
+        <figure class="card-img-top"><img src="https://telemed.ihc.id/uploads/img_post/img_30042022165130698715E8R.jpg" alt="" /></figure>
+        <div>
+            <article>
+                <div>
+                    <p>Setelah menjalani ibadah puasa selama satu bulan penuh di bulan Ramadhan, di Indonesia mudik sudah menjadi salah satu aktivitas, rutinitas hingga tradisi yang selalu dilakukan ketika merayakan lebaran pada setiap tahunnya.</p><p>Pandemi Covid-19 sudah telah banyak membatasi ruang gerak dalam melakukan segala aktivitas, baik dalam ibadah, pekerjaan, keseharian hingga kepentingan keluarga. Berbagai upaya telah dilakukan, seiring berjalannya waktu angka kasus positif Covid-19 mulai mencapai titik terang walaupun belum dapat dipastikan usai sepenuhnya. Hingga tahun ini, menjadi tahun pertama sejak awal pandemi Covid-19 pemerintah kembali mengizinkan pelaksaan mudik pada lebaran 2022.</p><p>Hal tersebut tentunya sangat memberikan angin segar kepada masyarakat Indonesia yang sudah cukup lama tertahan tidak melakukan mudik lebaran karena pandemi Covid-19. Dengan diizinkannya kembali mudik lebaran, tentunya mendapat antusiasme yang cukup tinggi dari masyarakat. Tidak sedikit orang yang sudah sangat merindukan orangtua, sanak keluarga hingga kampung halamannya. Namun, pandemi Covid-19 masih tetap menghantui walaupun dengan angka yang tidak terlalu tinggi. Oleh karena itu, demi mendapatkan rasa aman ketika melakukan perjalanan mudik lebaran, lakukan tips-tips berikut:</p><p>1.	Gunakan kendaraan pribadi</p><p>Menggunakan kendaraan pribadi masih menjadi cara terbaik ketika melaksanakan mudik di masa pandemi Covid-19. Hal tersebut dikarenakan, menggunakan kendaraan pribadi dinilai paling ampuh dalam menghindari terjadinya kontak fisik dengan orang lain hingga menghindari diri dari kerumunan banyak orang sehingga perjalanan mudik dapat lebih terkontrol dan aman.</p><p>2.	Bawa perlengkapan yang dibutuhkan</p><p>Mudik menggunakan pribadi dapat mempermudah dalam membawa perlengkapan yang dibutuhkan tanpa perlu takut mengganggu orang lain. Jangan lupa untuk membawa pakaian ganti bersih yang mencukupi. Hal ini bermanfaat ketika telah sampai ditujuan, segera mandi dan membersihkan diri lalu mengganti dengan pakaian salin yang bersih demi menghindari kuman, bakteri hingga virus yang menempel saat perjalanan menyebar di rumah sanak saudara di kampung halaman. Selalu sediakan pula <em>hand sanitizer</em> di dalam mobil atau tas agar dapat selalu menjaga kebersihan tangan secara berkala. Bila memungkinkan, bawa sabun dalam kemasan kecil untuk mencuci tangan. </p>
+                </div>
+            </article>
+        </div>
+    </section>
+
+    <footer class="bg-light">
+        <div class="widget">
+            <p class="mb-4">© IHC Telemed, 2021. <br class="d-none d-lg-block" />All Right Reserved.</p>
+        </div>
+
+
+        <div class="widget">
+             <h4 class="widget-title mb-3"> Hubungi kami</h4>
+             <address class="pe-xl-15 pe-xxl-17">Jl. Kyaimaja No. 43 Kebayoran Baru Jakarta Selatan 12120</address>
+            <a href="mailto:support@telemed.ihc.id" class="link-body">support@telemed.ihc.id</a><br />
+        </div>
+
+
+        <div class="widget">
+            <h4 class="widget-title mb-3">Site Map</h4>
+            <ul class="list-unstyled text-reset mb-0">
+              <li><a href="https://telemed.ihc.id/home.html">Home</a></li>
+              <li><a href="https://telemed.ihc.id/tentang-kami.html">Tentang Kami</a></li>
+              <li><a href="https://telemed.ihc.id/artikel.html">Artikel Kesehatan</a></li>
+              <li><a href="https://telemed.ihc.id/faq.html">FAQ</a></li>
+            </ul>
+          </div>
+
+          <div class="widget">
+            <h4 class="widget-title mb-3">Download App di</h4>
+            <div>
+                <span>
+                    <a href="https://play.google.com/store/apps/details?id=id.ihc.telemed"><img class="animated-caption" src="https://telemed.ihc.id/assets/web/img/appdroid.png">
+                    </a>
+                    </span>
+                  <div style="width: 5px;"></div>
+                  <span>
+                    <a href="https://apps.apple.com/id/app/ihc-telemed/id1577710474?l=id" ><img src="https://telemed.ihc.id/assets/web/img/appstore.png">
+                    </a>
+                </span>
+            </div>
+          </div>
+    </footer>
+</body>
+</html>
